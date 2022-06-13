@@ -1,0 +1,16 @@
+{
+  "name": "js-pro-mediaplayer",
+  "version": "1.0.0",
+  "description": "Extending the features of the browser's media player",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Arath Astorga",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

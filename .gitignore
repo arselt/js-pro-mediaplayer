@@ -14,3 +14,7 @@ logs
 .env.test.local
 .env.production.local
 .env.local
+
+#Bundler output
+.cache
+/dist

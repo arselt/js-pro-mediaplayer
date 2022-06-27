@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Extending the features of the browser's media player",
   "scripts": {
-    "start": "live-server"
+    "start": "parcel index.html "
   },
   "keywords": [
     "Javascript"
@@ -11,6 +11,12 @@
   "author": "Arath Astorga",
   "license": "MIT",
   "devDependencies": {
-    "live-server": "^1.2.2"
-  }
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.7.4"
+  },
+  "browserslist": [
+    "defaults",
+    "not IE 11",
+    "maintained node versions"
+  ]
 }
